@@ -30,7 +30,7 @@ header .logo a {
 }
 /* adding flexbox settings to sections */
 .center {   
-    color: white
+    color: white;
     text-align: center;
 }
 .feature-box {
