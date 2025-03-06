@@ -67,8 +67,7 @@ header .logo a {
 .feature-box2 figure {
     color: white;
     height: 300px;
-    margin: auto;
-    background-position: center;
+    margin: auto;   
     text-align: center;
     text-transform: uppercase;
     width: 300px;   
@@ -77,8 +76,7 @@ header .logo a {
     border: 1px solid white;
     border-radius: 20%;
     box-shadow: grey 0px 0px 10px;
-    height: 100%;
-    text-align: center;
+    height: 100%;   
     width: 100%;
 }
 .feature-box2 text {
