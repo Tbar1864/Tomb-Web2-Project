@@ -24,7 +24,7 @@ header .logo a {
     display: inline-block;
     height: 300px;
     text-indent: -99999px;
-   
+    position: relative;
     top: -150px;
     width: 300px;
 }
@@ -57,11 +57,12 @@ header .logo a {
 }
 /*Alternate section flexbox settings */
 .feature-box2 {
+    align-items: center;
     background-color: darkblue;
     background-size: 100%;
-    padding: 20px;
     display: flex;
     flex-direction: column;
+    padding: 20px;    
 }
 .feature-box2 figure {
     color: white;
