@@ -18,14 +18,13 @@ header a {
 }
 header .logo a {
     background-image: url("images/icons8-website-94.png");
-    background-size: 50%;
-    background-position: center;
+    background-size: 50%;    
     background-repeat: no-repeat;
     display: inline-block;
     height: 300px;
     text-indent: -99999px;
     position: relative;
-    top: -250px;
+    top: -150px;
     width: 300px;
 }
 /* adding flexbox settings to sections */
