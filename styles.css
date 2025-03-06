@@ -67,6 +67,7 @@ header .logo a {
     color: white;
     height: 300px;
     margin: auto;
+    background-position: center;
     text-align: center;
     text-transform: uppercase;
     width: 300px;   
