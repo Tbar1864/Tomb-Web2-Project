@@ -57,7 +57,7 @@ header .logo a {
 }
 /*Alternate section flexbox settings */
 .feature-box2 {
-    align-items: center;
+    align-items: left;
     background-color: darkblue;
     background-size: 100%;
     display: flex;
