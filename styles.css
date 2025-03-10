@@ -34,7 +34,7 @@ header .logo a {
     text-align: center;
 }
 .feature-box {
-    background-color: darkblue;
+    background-color: blue;
     background-size: 100%;
     display: flex;
     flex-direction: row;
